@@ -4,19 +4,8 @@
 - Displaying data and handling events
 - Components
 - Directives
-- Template -driven forms
-- Routing and navigation
-- deployment
-- building real-time, serverless application with firebase(e-commerce website)
- advanced part-->
-- Reactive forms
-- consuming HTTP services
-- authentication and authorization
-- Animations
 - Angular Materials
-- Redux
-- Unit testing
-- Integration testing
+
 
 
 ## 08/04/2019
